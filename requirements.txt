@@ -6,3 +6,4 @@ shapely
 h3pandas
 pydeck
 osmnx
+matplotlib
